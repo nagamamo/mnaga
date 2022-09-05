@@ -1,0 +1,178 @@
+﻿@charset "utf-8";
+
+#main {
+	float: right;
+	width: 610px;
+	height: auto;
+	margin-right: 20px;
+	margin-bottom: 50px;
+}
+
+#main h2 {
+	margin-top: 30px;
+}
+#main h3 {
+	margin-top: 20px;
+}
+#main .table_top {
+	margin: 20px 10px;
+	letter-spacing: 1px;
+}
+#main .table_top th {
+	width: 100px;
+	vertical-align: top;
+	padding: 5px;
+}
+#main .table_top td {
+	padding: 5px;
+}
+#main .title {
+	color: #029acc;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#nav {
+	margin-top: 5px 5px 12px 5px;
+}
+#nav li {
+	float: left;
+	margin-bottom: 5px;
+}
+
+#copyright {
+	width: 410px;
+	margin: 10px auto;
+	padding-bottom: 8px;
+}
+
+#main .table_profile {
+	margin: 20px 10px;
+	letter-spacing: 1px;
+}
+#main .table_profile th {
+	width: 100px;
+	text-align: center;
+	color: #029acc;
+	padding: 5px;
+	border-bottom: dotted 2px #999;
+	border-right: solid 4px #029acc;
+}
+#main .table_profile td {
+	padding: 5px 5px 5px 20px;
+	border-bottom: dotted 2px #999;
+}
+#main .table_research {
+	margin: 15px 10px 40px 10px;
+	font-size: 11px;
+}
+#main .table_research th {
+	width: 30px;
+	text-align: center;
+	color: #FFF;
+	background-color: #029acc;
+	padding: 5px;
+}
+#main .table_research td {
+	padding: 5px 5px 5px 20px;
+	border-bottom: dotted 2px #999;
+}
+
+#main #english p {
+	margin: 0 20px 10px 20px;
+}
+#main .table_english {
+	margin: 0 20px 40px 20px;
+	font-size: 10px;
+}
+#main .table_english th {
+	width: 15px;
+	text-align: center;
+	color: #FFF;
+	background-color: #029acc;
+	padding: 5px;
+}
+#main .table_english td {
+	padding: 5px 5px 5px 20px;
+	border-bottom: dotted 2px #999;
+}
+
+#main .table_teaching1 {
+	margin: 20px 10px 30px 10px;
+	font-size: 11px;
+}
+#main .table_teaching1 th {
+	width: 100px;
+	text-align: center;
+	vertical-align: top;
+	color: #FFF;
+	background-color: #029acc;
+	padding: 5px;
+}
+#main .table_teaching1 td {
+	padding: 5px 5px 5px 20px;
+	border-bottom: dotted 2px #999;
+}
+
+#main .table_teaching2 {
+	margin: 20px 10px 30px 10px;
+	font-size: 11px;
+}
+#main .table_teaching2 th {
+	width: 60px;
+	text-align: center;
+	vertical-align: top;
+	color: #FFF;
+	background-color: #029acc;
+	padding: 5px;
+}
+#main .table_teaching2 td {
+	padding: 5px 5px 5px 20px;
+	border-bottom: dotted 2px #999;
+}
+#main .univ {
+	font-size: 8px;
+	line-height: 100%;
+}
+#main .table_seminar1 {
+	width: 600px;
+	margin: 10px auto 10px;
+	border-collapse: collapse;
+}
+#main .table_seminar1 th {
+	width: 300px;
+	text-align: center;
+	border: solid 1px #333;
+	padding: 5px;
+}
+#main .table_seminar1 td {
+	padding: 5px 10px;
+	border: solid 1px #333;
+}
+#main .table_seminar2 {
+	width: 400px;
+	margin: 0 0 20px 20px;
+	border-collapse: collapse;
+}
+#main .table_seminar2 th {
+	width: 60px;
+	text-align: center;
+	border: solid 1px #333;
+	padding: 5px;
+}
+#main .table_seminar2 td {
+	padding: 5px 10px;
+	border: solid 1px #333;
+}
+#main p a { text-decoration: underline;}
+
+#main #ensyu p {
+	margin-bottom: 20px;
+}
+
+
+#copyright p {
+	color: #0099ff;
+	font-family: Century Gothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+}

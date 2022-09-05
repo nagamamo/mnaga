@@ -1,0 +1,17 @@
+﻿@charset "utf-8";
+
+#side {
+	float: left;
+	width: 220px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#nav {
+	padding: 10px;
+	height: 296px;
+	background-color: #f9f9f9;
+	margin-bottom: 30px;
+}
+#nav li {
+	margin: 0;
+}
