@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="default.css" server="ftp166.heteml.jp/web/nagano/" local="3442958387" remote="12032903192" />
-<file name="footer.css" server="ftp166.heteml.jp/web/nagano/" local="3442895186" remote="12032903192" />
-<file name="header.css" server="ftp166.heteml.jp/web/nagano/" local="3443071777" remote="12033006572" />
-<file name="import.css" server="ftp166.heteml.jp/web/nagano/" local="3442895559" remote="12032903192" />
-<file name="main.css" server="ftp166.heteml.jp/web/nagano/" local="3442967956" remote="12032903192" />
-<file name="side.css" server="ftp166.heteml.jp/web/nagano/" local="3442897639" remote="12032903192" />
-</dwsync>
+@charset "utf-8";
+
+@import url("default.css");
+
+
+/* header Style
+----------------------------------------------------------- */
+@import url("header.css");
+
+
+/* main Style
+----------------------------------------------------------- */
+@import url("main.css");
+
+
+/* side Style
+----------------------------------------------------------- */
+@import url("side.css");
