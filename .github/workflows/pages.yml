@@ -48,8 +48,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-
-theme: jekyll-theme-hacker
-google_analytics: G-PZ017G8CCE
-plugins:
-  - jekyll-sitemap
